@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autobiography of [Your Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 100px;
+            /* Set background image */
+            background-image: url('background-image.jpg');
+            /* Center and scale background image */
+            background-size: cover;
+            background-position: center;
+            /* Set background color as fallback */
+            background-color: #FFFFFF;
+            /* Set text color to contrast with background */
+            color: #333;
+            justify-content: center;
+        }
+        .content {
+            text-align: center;
+        }
+
+        h1, h2 {
+            color: #FF3399; /* Adjust text color for readability */
+        }
+        p {
+            color: black; /* Adjust text color for readability */
+        }
+        .content {
+            background-color: rgba(255, 51, 153, 0.5); /* Semi-transparent background for content */
+            padding: 20px;
+            border-radius: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        /* Align ingredients and instructions to left */
+        .ingredients, .instructions {
+            text-align: left;
+        }
+        /* Set font size and color for ingredients and instructions headings */
+        .heading {
+            font-size: 24px; /* Adjust font size */
+            color: #FF3399; /* Adjust text color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HTML: How To Make Lugaw? </h1>
+    </header>
+    <div class="content">
+        <!-- Add an image -->
+        <img src="https://i.imgur.com/uYacZmq.jpeg" alt="Your Image Description">
+        <section id="introduction">
+            <h2>By Jay Monin A. Jada-ong</h2>
+            <p style="line-height:1;margin-bottom:0px;margin-top:0px;"><span style="color:#ff3399;font-family:'Times New Roman', Times, serif;font-size:16px;"><i><strong>Lugaw</strong></i></span><span style="font-family:'Times New Roman', Times, serif;font-size:16px;"><i> </i>is a simple rice porridge (born on the 29th of November, 2003) prepared in the Philippines.</span></p>
+            <p style="line-height:1;margin-bottom:0px;margin-top:0px;"><span style="font-family:'Times New Roman', Times, serif;font-size:16px;">There are two versions of this dish: a plain (introverted, serious, and nonchalant) porridge made with&nbsp;</span></p>
+            <p style="line-height:1;margin-bottom:0px;margin-top:0px;"><span style="font-family:'Times New Roman', Times, serif;font-size:16px;">a little more of (moodiness) and rice, and a more flavorful porridge that also includes (a gay side) shredded chicken.</span></p>
+            <p style="line-height:1;margin-bottom:0px;margin-top:0px;"><span style="font-family:'Times New Roman', Times, serif;font-size:16px;">While the latter is more (clingy, OA, talkative) and time-consuming, both are fairly straightforward and simple to (interact with).</span></p>
+        </section>
+        <!-- Ingredients -->
+        <div class="ingredients">
+            <p class="heading"><strong>INGREDIENTS:</strong></p>
+            <p style="line-height:1.08;margin-bottom:10.67px;margin-top:0px;"><span style="font-family:Calibri;font-size:14.67px;">​•&nbsp;1/2 cup (125 ml) Sagittarius</span><br><span style="font-family:Calibri;font-size:14.67px;">•&nbsp;1/3 cup (80 ml) Potterhead</span><br><span style="font-family:Calibri;font-size:14.67px;">•&nbsp;2 Tbsp (30 ml) Low sweet likers</span><br><span style="font-family:Calibri;font-size:14.67px;">• 1 clove of Cat person</span><br><span style="font-family:Calibri;font-size:14.67px;">• 4-inch (10-cm) Swiftie and Livies!</span><br><span style="font-family:Calibri;font-size:14.67px;">•&nbsp;5 cup (1250 ml) CrammerGround black pepper, who mostly wears black (optional: grey)​</span><br><span style="font-family:Calibri;font-size:14.67px;">• 1/4 cup (60 ml) Bookworm (optional: wolfstar fanfiction in AO3)</span></p>
+        </div>
+        <!-- Instructions -->
+        <div class="instructions">
+            <p class="heading"><strong>INSTRUCTIONS:</strong></p>
+            <p style="line-height:1;margin-bottom:10.67px;margin-top:0px;"><span style="font-family:'Times New Roman', Times, serif;font-size:16px;">​</span><span style="font-family:Calibri;font-size:14.67px;">1) Clean the rice:&nbsp;I like watching films and TV series with weird plots and cool cinematography.&nbsp;</span><br><span style="font-family:Calibri;font-size:14.67px;">2) Heat the oil in a heavy saucepan:&nbsp;I am the only boy among my 4 sisters.</span><br><span style="font-family:Calibri;font-size:14.67px;">3) Sauté the garlic and ginger: I prefer listening to indie music with melancholic melodies.</span><br><span style="font-family:Calibri;font-size:14.67px;">4) Add the rice and stock: I'm not fond of playing any sports, but I love playing guitar.</span><br><span style="font-family:Calibri;font-size:14.67px;">5) Season with fish sauce and pepper: I have 5 cats and 1 dog.</span><br><span style="font-family:Calibri;font-size:14.67px;">6) Simmer for 60 minutes: I lost both of my parents at a young age.</span><br><span style="font-family:Calibri;font-size:14.67px;">7) Serve hot. Definitely not straight.</span></p>
+        </div>
+    </div>
+</body>
+</html>
